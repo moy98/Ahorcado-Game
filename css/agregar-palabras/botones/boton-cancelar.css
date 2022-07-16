@@ -1,4 +1,4 @@
-.principal__agregarPalabra{
+.boton__cancelar{
     background: transparent ;
     border: 1px solid #0A3871;
     border-radius: 1.5rem;
@@ -10,6 +10,7 @@
     transition: 0.5s all;
     width: 280px;
 }
-.principal__agregarPalabra:hover{
+
+.boton__cancelar:hover{
     transform: scale(0.98);
 }
