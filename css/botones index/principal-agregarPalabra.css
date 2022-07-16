@@ -1,0 +1,15 @@
+.principal__agregarPalabra{
+    background: transparent ;
+    border: 1px solid #0A3871;
+    border-radius: 1.5rem;
+    color: #0A3871;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-size: 1rem;
+    width: 67px;
+    transition: 0.5s all;
+    width: 280px;
+}
+.principal__agregarPalabra:hover{
+    transform: scale(0.98);
+}

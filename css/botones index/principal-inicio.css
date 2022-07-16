@@ -1,0 +1,15 @@
+.principal__inicio{
+    background: #0A3871;
+    border-radius: 1.5rem;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-size: 1rem;
+    height: 115px;
+    transition: 0.5s all;
+    width: 280px;
+}
+.principal__inicio:hover{
+    transform: scale(0.98);
+}
