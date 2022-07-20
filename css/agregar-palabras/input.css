@@ -1,6 +1,14 @@
-.entradaNuevaPalabra{
+.entradaNuevaPalabra {
     background: transparent;
+    border: none;
+    color: #0A3871;
     font-family: Montserrat;
-    font-size: 1.2rem;
-    color: 0A3871;
+    font-size: 1.5rem;
+    margin-bottom: 30%;
+    padding: 1rem;
+    outline: none;
+}
+
+.entradaNuevaPalabra::placeholder {
+    color: #0A3871;
 }
